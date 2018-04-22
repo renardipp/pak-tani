@@ -1,5 +1,3 @@
-Branch ini oki gunakan untuk mengupload versi-oki sebelum nantinya di-integrasikan dengan hasil kerja teman-teman.
-
 ## Deskripsi
 
 Ini hanya template sederhana untuk otentikasi email dan password.
@@ -51,6 +49,7 @@ $ ionic serve
 ```
 
 Metode testing lainnya bisa dibaca di:
+
 https://ionicframework.com/docs/v1/guide/testing.html
 
 ## E-Book Source ( Tutorial Ionic dan Firebase )
