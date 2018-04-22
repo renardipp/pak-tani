@@ -1,3 +1,12 @@
+## Kelompok 12
+
+Renardi Purnama Putra		G64150100
+
+Samuel Ginting			    G64150066
+
+Ahmad Syauqi			      G64150078
+
+
 ## Deskripsi
 
 Ini hanya template sederhana untuk otentikasi email dan password.
