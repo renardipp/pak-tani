@@ -1,8 +1,9 @@
-#Branch ini oki gunakan untuk mengupload versi-oki sebelum nantinya di-integrasikan dengan hasil kerja teman-teman.
+Branch ini oki gunakan untuk mengupload versi-oki sebelum nantinya di-integrasikan dengan hasil kerja teman-teman.
 
 ## Deskripsi
 
 Ini hanya template sederhana untuk otentikasi email dan password.
+
 Dibuat dengan Ionic Framework dan Firebase JavaScript SDK.
 
 Apa yang ada?
