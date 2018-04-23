@@ -1,4 +1,11 @@
-Branch ini oki gunakan untuk mengupload versi-oki sebelum nantinya di-integrasikan dengan hasil kerja teman-teman.
+## Kelompok 12
+
+Renardi Purnama Putra		G64150100
+
+Samuel Ginting			    G64150066
+
+Ahmad Syauqi			      G64150078
+
 
 ## Deskripsi
 
@@ -19,7 +26,7 @@ Clone repository dengan ssh:
 
 ```sh
 $ git clone git@github.com:renardipp/pak-tani.git
-$ cd pak-tani-oki
+$ cd pak-tani
 $ npm install
 ```
 
@@ -27,7 +34,7 @@ Clone repository dengan https:
 
 ```sh
 $ git clone https://github.com/renardipp/pak-tani.git
-$ cd pak-tani-oki
+$ cd pak-tani
 $ npm install
 ```
 
@@ -51,6 +58,7 @@ $ ionic serve
 ```
 
 Metode testing lainnya bisa dibaca di:
+
 https://ionicframework.com/docs/v1/guide/testing.html
 
 ## E-Book Source ( Tutorial Ionic dan Firebase )
