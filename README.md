@@ -26,7 +26,7 @@ Clone repository dengan ssh:
 
 ```sh
 $ git clone git@github.com:renardipp/pak-tani.git
-$ cd pak-tani-oki
+$ cd pak-tani
 $ npm install
 ```
 
@@ -34,7 +34,7 @@ Clone repository dengan https:
 
 ```sh
 $ git clone https://github.com/renardipp/pak-tani.git
-$ cd pak-tani-oki
+$ cd pak-tani
 $ npm install
 ```
 
